@@ -2,3 +2,5 @@
 !important.log
 temp/
 *.env
+Module-2/upload/*
+!Module-2/.gitkeep
